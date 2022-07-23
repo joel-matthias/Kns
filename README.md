@@ -1,5 +1,5 @@
 ﻿## Dependencies
- This cli tool requires `kubectx` and `kubens` to be installed.
+ This cli tool requires `kubectx` and `kubens` to be installed. See https://github.com/ahmetb/kubectx
  
  ## Build Package
 ```
