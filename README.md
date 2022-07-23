@@ -1,4 +1,7 @@
-﻿## Build Package
+﻿## Dependencies
+ This cli tool requires `kubectx` and `kubens` to be installed.
+ 
+ ## Build Package
 ```
 dotnet pack
 ```
