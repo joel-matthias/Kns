@@ -9,7 +9,7 @@ if (args.Length == 0)
     return;
 }
 
-var path = args[0].Split('/');
+var path = args[0].Split(':');
 
 var context = path.Length > 1 ? path[0] : "";
 var ns = path.Length > 1 ? path[1] : path[0];
